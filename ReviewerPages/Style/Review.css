@@ -1,0 +1,109 @@
+.TB{
+    height: 320PX;
+   
+    
+}
+
+.tr1{
+    
+    height: 55px;
+    
+}
+.bt{
+    position: absolute;
+    width: 180px;
+    margin-left: 680px;
+    top: 230px;
+   
+}
+
+.tx1{
+    position:relative;
+    margin-top:  40px;
+    border: none;
+    margin-left: 20px;
+    font: 1.2em sans-serif;
+    color: #003c70;
+}
+
+
+
+.vw2{
+    position: absolute;
+    width: 100px;
+    margin-left: 780px;
+    top: 12px; 
+    background-color: #003c70;
+    border-color:#003c70;
+    color: #ebf1f5;
+}
+.oo{
+    position: absolute;
+    border: 2px solid;
+    margin-left: 620px;
+    top: 19px; 
+    width: 130px;
+    border-radius: 40px;
+    height: 28px;
+    color:#003c70;
+    
+ 
+}
+
+.cp{
+    position: absolute;
+    border: 2px solid;
+    margin-left: 690px;
+    top: 12px; 
+    width: 150px;
+    border-radius: 40px;
+    height: 28px;
+    color: #f1f6ef;
+   background-color: #36950d;
+   text-align: center;
+}
+.rej{
+    position: absolute;
+    border: 2px solid;
+    margin-left: 690px;
+    top: 12px; 
+    width: 150px;
+    border-radius: 40px;
+    height: 28px;
+    color: #ede6e6;
+    background-color: #ab1414;
+    text-align: center;
+    
+  
+}
+.circle{
+    margin-left: 19px;
+}
+.circ{
+    margin-left: 30px;
+}
+.re{
+    position: absolute;
+    border: 2px solid;
+    margin-left: 620px;
+    top: 19px; 
+    width: 130px;
+    border-radius: 20px;
+    height: 28px;
+    color:#f17f22;
+    
+    
+    
+  
+}
+.messageicon{
+    position: absolute;
+   top: 50px;
+   margin-left: 660px;
+   color: #003c70;
+}
+.messagenum{
+    position: absolute;
+    top: 2px;
+    margin-left: 20px;
+}

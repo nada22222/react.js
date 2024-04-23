@@ -1,0 +1,177 @@
+.reviewertabs{
+   
+    margin-top: 40px;
+    background-color: #dce1e5;
+}
+.request{
+    margin-top: 15px;
+  
+}
+.md{
+    color: #003c70;
+    margin-left: 10px;
+    
+}
+.Details{
+    margin-left: 15px;
+}
+.date{
+    position: absolute;
+    border: 1px solid gray ;
+    margin-left: 10px;
+   margin-top: 2px;
+   width: 150px;
+   text-align: center;
+    
+}
+.date1{
+    position: absolute;
+    border: 1px solid gray ;
+    margin-top: 2px;
+    text-align: center;
+    margin-left: 180px;
+    text-align: center;
+    width: 150px;
+}
+.date2{
+    position: absolute;
+    border: 1px solid gray ;
+    width: 150px;
+    text-align: center;
+    margin-left: 360px;
+    margin-top: 2px;
+}
+.text1{
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.text2{
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 20px;
+}
+.text3{
+    position: absolute;
+    margin-left: 360px;
+    margin-top: 20px;
+}
+.accept{
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 80px;  
+    width: 100px;
+    background-color: #003c70;
+}
+.reject{
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 80px;  
+    width: 100px;
+    background-color: #730101;
+}
+.Completion{
+    margin-top: 15px;
+   
+}
+.continue{
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 20px;  
+    width: 100px;
+    background-color: #003c70;
+}
+.back{
+    position: absolute;
+    margin-left: 190px;
+    margin-top: 20px;  
+    width: 100px;
+    background-color: #787e87;
+}
+.accepttext{
+    text-align: center;
+    color: #003c70;
+    font-size: 20px;
+}
+.rejectok{
+    background-color:#a5aab2;
+  }
+.ww{
+    margin-top: 30px;
+}
+
+
+.rv{
+    margin-top: 20px;
+    margin-left: 3px;
+}
+.sp0{
+    margin-left: 30px;
+    color: #003c70;
+    
+}
+.sp{
+    position: absolute;
+    margin-left: 90px;
+    margin-top: 3px;
+}
+.input{
+    width: 700px;
+    height: 130px;
+    border-color: #003c70;
+}
+.recommendationchoose{
+    width: 600px;
+    border-color: #003c70;
+   
+}
+.Submitreview{
+    width: 150px;
+    background-color: #003c70;
+    margin-top: 30px;
+}
+.back2{
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 80px;
+}
+
+  .UploadFile{
+    width: 610px;
+
+  }
+  .discussion{
+    margin-right: 350px;
+    width: 590px;
+    margin-left: 0px;
+  }
+  .message2{
+    height: 100px;
+  }
+  .uplod{
+    margin-top: 40px;
+  }
+ 
+  .subj{
+    color: #003c70;
+  }
+  .mess{
+    border: 2px solid;
+    height: 120px;
+  }
+  .files{
+    border: 1px solid #a5aab2;
+   width: 400px;
+   position: relative;
+  }
+  .removefile{
+    margin-left: 50px;
+  }
+  .remove{
+   
+    position: absolute;
+    margin-left: 100px;
+    top: 212px;
+    cursor: pointer;
+  }
+   
